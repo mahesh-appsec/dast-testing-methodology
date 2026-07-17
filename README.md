@@ -193,5 +193,4 @@ Always obtain proper authorization before performing security testing against an
 👨‍💻 Author
 G. Mahesh Babu
 Application Security Engineer | VAPT | SAST | DAST | SCA | DevSecOps
-          ↓
-Retesting & Closure
+
